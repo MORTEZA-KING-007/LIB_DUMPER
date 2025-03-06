@@ -26,6 +26,7 @@ bash setup.sh
 ```
 sh setup.sh
 ```
+- if you face permission denied
 ```
 chmod +x $PREFIX/bin/dumper
 ```
