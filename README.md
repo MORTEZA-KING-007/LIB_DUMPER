@@ -26,3 +26,6 @@ bash setup.sh
 ```
 sh setup.sh
 ```
+```
+chmod +x $PREFIX/bin/dumper
+```
